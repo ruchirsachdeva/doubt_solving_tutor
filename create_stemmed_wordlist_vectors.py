@@ -37,7 +37,7 @@ def generate_in_correct_format(filename):
 			myfile.write(string_to_write)
 
 
-#generate_in_correct_format(filename)
+
 
 def clean_vectors():
 	ctr = 0
